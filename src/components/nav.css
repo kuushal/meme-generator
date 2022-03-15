@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+h2{
+    margin: 0;
+}
+
+.nav-image{
+    height: 100%;
+    margin-right: 6px;
+
+}
+
+.nav-title{
+    font-size: 20px;    
+}
